@@ -1,0 +1,9 @@
+anthropic
+chromadb
+pydantic
+pypdf
+python-dotenv
+python-pptx
+python-telegram-bot
+rank-bm25
+sentence-transformers
